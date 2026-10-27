@@ -1,0 +1,8 @@
+[package]
+name = "squery"
+version = "0.1.0"
+edition = "2021"
+description = "Syntax-only parser for search queries"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
